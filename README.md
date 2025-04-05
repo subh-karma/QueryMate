@@ -98,10 +98,6 @@ Generated Response: "Machine learning is a branch of artificial intelligence tha
 
 ---
 
-## **📝 License**
-This project is licensed under the **MIT License**.
-
----
 
 ## **👨‍💻 Contributing**
 Pull requests are welcome! Feel free to submit issues or suggest improvements.
