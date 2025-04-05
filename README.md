@@ -54,6 +54,11 @@ pip install faiss-cpu numpy sentence-transformers ollama
 
 ## **📌 How to Use**
 
+python embed.py     # Step 1: Create embeddings
+python retrieve.py  # Step 2: Test retrieval
+python generate.py  # Step 3: Test generation
+python main.py      # Step 4: Full RAG pipeline
+
 ### **1️⃣ Index Documents**
 Ensure that your documents are inside the `data/` folder. If needed, modify `retrieve.py` to load your own text files.
 
