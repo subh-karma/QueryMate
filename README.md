@@ -1,6 +1,6 @@
-# **QwenRAG - Retrieval-Augmented Generation with FAISS & Ollama**
+# **QueryMate - Retrieval-Augmented Generation with FAISS & Ollama**
 
-QwenRAG is a **free and open-source Retrieval-Augmented Generation (RAG) application** that leverages **FAISS** for vector storage and **Ollama** for LLM inference using the `qwen2.5:0.5b` model. This project allows efficient document retrieval and AI-generated responses.
+QueryMate is a **free and open-source Retrieval-Augmented Generation (RAG) application** that leverages **FAISS** for vector storage and **Ollama** for LLM inference using the `qwen2.5:0.5b` model. This project allows efficient document retrieval and AI-generated responses.
 
 ---
 
