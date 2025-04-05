@@ -3,7 +3,7 @@ import ollama
 def generate_response(context, query):
     prompt = f"Answer this based on the following context:\n\n{context}\n\nQuestion: {query}\nAnswer:"
     
-    response = ollama.chat(model="qwen2.5:0.5b", messages=[{"role": "user", "content": prompt}])
+    response = ollama.chat(model="qwen2.5:0.5b", messages=[{"role": "user", "content": prompt}]) #you can use better model if your pc can support it 
     return response["message"]["content"]
 
 # Example usage
