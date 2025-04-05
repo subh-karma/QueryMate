@@ -1,4 +1,4 @@
 python embed.py     # Step 1: Create embeddings
-python retrieve.py  # Step 2: Test retrieval
+python retrieve.py  # Step 2: Test retrieval ans replace the file if u want 
 python generate.py  # Step 3: Test generation
 python main.py      # Step 4: Full RAG pipeline
